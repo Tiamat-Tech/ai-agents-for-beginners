@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "0c6a7a65974383f8467bb6adf3d34bc5",
-  "translation_date": "2025-09-29T21:19:22+00:00",
+  "original_hash": "413adcc2c6a498d52643d27f6871aa24",
+  "translation_date": "2025-10-02T08:06:56+00:00",
   "source_file": "README.md",
   "language_code": "ro"
 }
@@ -13,11 +13,11 @@ CO_OP_TRANSLATOR_METADATA:
 
 ## Un curs care te învață tot ce trebuie să știi pentru a începe să construiești agenți AI
 
-[![GitHub license](https://img.shields.io/github/license/microsoft/ai-agents-for-beginners.svg)](https://github.com/microsoft/ai-agents-for-beginners/blob/master/LICENSE?WT.mc_id=academic-105485-koreyst)
-[![GitHub contributors](https://img.shields.io/github/contributors/microsoft/ai-agents-for-beginners.svg)](https://GitHub.com/microsoft/ai-agents-for-beginners/graphs/contributors/?WT.mc_id=academic-105485-koreyst)
-[![GitHub issues](https://img.shields.io/github/issues/microsoft/ai-agents-for-beginners.svg)](https://GitHub.com/microsoft/ai-agents-for-beginners/issues/?WT.mc_id=academic-105485-koreyst)
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/microsoft/ai-agents-for-beginners.svg)](https://GitHub.com/microsoft/ai-agents-for-beginners/pulls/?WT.mc_id=academic-105485-koreyst)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com?WT.mc_id=academic-105485-koreyst)
+[![GitHub license](https://img.shields.io/github/license/microsoft/ai-agents-for-beginners.svg)](https://github.com/microsoft/ai-agents-for-beginners/blob/master/LICENSE?WT.mc_id=academic-105485-koreyst)  
+[![GitHub contributors](https://img.shields.io/github/contributors/microsoft/ai-agents-for-beginners.svg)](https://GitHub.com/microsoft/ai-agents-for-beginners/graphs/contributors/?WT.mc_id=academic-105485-koreyst)  
+[![GitHub issues](https://img.shields.io/github/issues/microsoft/ai-agents-for-beginners.svg)](https://GitHub.com/microsoft/ai-agents-for-beginners/issues/?WT.mc_id=academic-105485-koreyst)  
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/microsoft/ai-agents-for-beginners.svg)](https://GitHub.com/microsoft/ai-agents-for-beginners/pulls/?WT.mc_id=academic-105485-koreyst)  
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com?WT.mc_id=academic-105485-koreyst)  
 
 ### 🌐 Suport Multi-Limbă
 
@@ -27,60 +27,57 @@ CO_OP_TRANSLATOR_METADATA:
 
 **Dacă dorești să fie suportate alte limbi, lista completă este disponibilă [aici](https://github.com/Azure/co-op-translator/blob/main/getting_started/supported-languages.md)**
 
-[![GitHub watchers](https://img.shields.io/github/watchers/microsoft/ai-agents-for-beginners.svg?style=social&label=Watch)](https://GitHub.com/microsoft/ai-agents-for-beginners/watchers/?WT.mc_id=academic-105485-koreyst)
-[![GitHub forks](https://img.shields.io/github/forks/microsoft/ai-agents-for-beginners.svg?style=social&label=Fork)](https://GitHub.com/microsoft/ai-agents-for-beginners/network/?WT.mc_id=academic-105485-koreyst)
-[![GitHub stars](https://img.shields.io/github/stars/microsoft/ai-agents-for-beginners.svg?style=social&label=Star)](https://GitHub.com/microsoft/ai-agents-for-beginners/stargazers/?WT.mc_id=academic-105485-koreyst)
+[![GitHub watchers](https://img.shields.io/github/watchers/microsoft/ai-agents-for-beginners.svg?style=social&label=Watch)](https://GitHub.com/microsoft/ai-agents-for-beginners/watchers/?WT.mc_id=academic-105485-koreyst)  
+[![GitHub forks](https://img.shields.io/github/forks/microsoft/ai-agents-for-beginners.svg?style=social&label=Fork)](https://GitHub.com/microsoft/ai-agents-for-beginners/network/?WT.mc_id=academic-105485-koreyst)  
+[![GitHub stars](https://img.shields.io/github/stars/microsoft/ai-agents-for-beginners.svg?style=social&label=Star)](https://GitHub.com/microsoft/ai-agents-for-beginners/stargazers/?WT.mc_id=academic-105485-koreyst)  
 
 [![Azure AI Discord](https://dcbadge.limes.pink/api/server/kzRShWzttr)](https://discord.gg/kzRShWzttr)
 
-
 ## 🌱 Începe
 
-Acest curs include lecții care acoperă fundamentele construirii agenților AI. Fiecare lecție abordează un subiect specific, așa că poți începe de unde dorești!
+Acest curs include lecții care acoperă fundamentele construirii agenților AI. Fiecare lecție tratează un subiect specific, așa că poți începe de unde dorești!
 
-Există suport multi-limbă pentru acest curs. Accesează [limbile disponibile aici](../..). 
+Există suport multi-limbă pentru acest curs. Vezi [limbile disponibile aici](../..).  
 
-Dacă este prima dată când lucrezi cu modele Generative AI, consultă cursul nostru [Generative AI For Beginners](https://aka.ms/genai-beginners), care include 21 de lecții despre construirea cu GenAI.
+Dacă este prima ta experiență cu modelele Generative AI, consultă cursul nostru [Generative AI For Beginners](https://aka.ms/genai-beginners), care include 21 de lecții despre construirea cu GenAI.
 
-Nu uita să [adaugi o stea (🌟) acestui repo](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars?WT.mc_id=academic-105485-koreyst) și să [forkezi acest repo](https://github.com/microsoft/ai-agents-for-beginners/fork) pentru a rula codul.
+Nu uita să [acordezi o stea (🌟) acestui repo](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars?WT.mc_id=academic-105485-koreyst) și să [forkezi acest repo](https://github.com/microsoft/ai-agents-for-beginners/fork) pentru a rula codul.
 
 ### Cunoaște alți cursanți, primește răspunsuri la întrebări
 
 Dacă întâmpini dificultăți sau ai întrebări despre construirea agenților AI, alătură-te canalului nostru dedicat pe Discord în [Azure AI Foundry Community Discord](https://aka.ms/ai-agents/discord).
 
-### Ce ai nevoie 
+### Ce ai nevoie
 
 Fiecare lecție din acest curs include exemple de cod, care pot fi găsite în folderul code_samples. Poți [forkezi acest repo](https://github.com/microsoft/ai-agents-for-beginners/fork) pentru a crea propria copie.  
 
 Exemplele de cod din aceste exerciții utilizează Azure AI Foundry și GitHub Model Catalogs pentru interacțiunea cu modelele de limbaj:
 
-- [Github Models](https://aka.ms/ai-agents-beginners/github-models) - Gratuit / Limitat
-- [Azure AI Foundry](https://aka.ms/ai-agents-beginners/ai-foundry) - Necesită cont Azure
+- [Github Models](https://aka.ms/ai-agents-beginners/github-models) - Gratuit / Limitat  
+- [Azure AI Foundry](https://aka.ms/ai-agents-beginners/ai-foundry) - Necesită cont Azure  
 
 Acest curs utilizează, de asemenea, următoarele cadre și servicii pentru agenți AI de la Microsoft:
 
-- [Azure AI Agent Service](https://aka.ms/ai-agents-beginners/ai-agent-service)
-- [Semantic Kernel](https://aka.ms/ai-agents-beginners/semantic-kernel)
-- [AutoGen](https://aka.ms/ai-agents/autogen)
+- [Microsoft Agent Framework (MAF) - Nou!](https://aka.ms/ai-agents-beginners/agent-framewrok)  
+- [Azure AI Agent Service](https://aka.ms/ai-agents-beginners/ai-agent-service)  
+- [Semantic Kernel](https://aka.ms/ai-agents-beginners/semantic-kernel)  
+- [AutoGen](https://aka.ms/ai-agents/autogen)  
 
 Pentru mai multe informații despre rularea codului pentru acest curs, accesează [Configurarea Cursului](./00-course-setup/README.md).
 
 ## 🙏 Vrei să ajuți?
 
-Ai sugestii sau ai găsit greșeli de ortografie sau cod? [Deschide o problemă](https://github.com/microsoft/ai-agents-for-beginners/issues?WT.mc_id=academic-105485-koreyst) sau [Creează un pull request](https://github.com/microsoft/ai-agents-for-beginners/pulls?WT.mc_id=academic-105485-koreyst)
-
-
+Ai sugestii sau ai găsit greșeli de ortografie sau cod? [Deschide o problemă](https://github.com/microsoft/ai-agents-for-beginners/issues?WT.mc_id=academic-105485-koreyst) sau [Creează un pull request](https://github.com/microsoft/ai-agents-for-beginners/pulls?WT.mc_id=academic-105485-koreyst).
 
 ## 📂 Fiecare lecție include
 
-- O lecție scrisă situată în README și un videoclip scurt
-- Exemple de cod Python care suportă Azure AI Foundry și Github Models (Gratuit)
-- Linkuri către resurse suplimentare pentru a continua învățarea
-
+- O lecție scrisă situată în README și un videoclip scurt  
+- Exemple de cod Python care suportă Azure AI Foundry și Github Models (Gratuit)  
+- Linkuri către resurse suplimentare pentru a continua învățarea  
 
 ## 🗃️ Lecții
 
-| **Lecție**                                   | **Text & Cod**                                    | **Video**                                                  | **Învățare suplimentară**                                                             |
+| **Lecție**                                   | **Text & Cod**                                    | **Video**                                                  | **Învățare Suplimentară**                                                             |
 |----------------------------------------------|----------------------------------------------------|------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | Introducere în Agenți AI și Cazuri de Utilizare | [Link](./01-intro-to-ai-agents/README.md)          | [Video](https://youtu.be/3zgm60bXmQk?si=z8QygFvYQv-9WtO1)  | [Link](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
 | Explorarea Cadrelor Agentice AI              | [Link](./02-explore-agentic-frameworks/README.md)  | [Video](https://youtu.be/ODwF-EZo_O8?si=Vawth4hzVaHv-u0H)  | [Link](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
@@ -93,20 +90,20 @@ Ai sugestii sau ai găsit greșeli de ortografie sau cod? [Deschide o problemă]
 | Pattern-ul de Design pentru Metacogniție     | [Link](./09-metacognition/README.md)               | [Video](https://youtu.be/His9R6gw6Ec?si=8gck6vvdSNCt6OcF)  | [Link](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
 | Agenți AI în Producție                       | [Link](./10-ai-agents-production/README.md)        | [Video](https://youtu.be/l4TP6IyJxmQ?si=31dnhexRo6yLRJDl)  | [Link](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
 | Utilizarea Protocoalelor Agentice (MCP, A2A și NLWeb) | [Link](./11-agentic-protocols/README.md)           | [Video](https://youtu.be/X-Dh9R3Opn8)                                 | [Link](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
-| Ingineria Contextului pentru Agenți AI       | [Link](./12-context-engineering/README.md)         | [Video](https://youtu.be/F5zqRV7gEag)                                 | [Link](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
-| Gestionarea Memoriei Agenților               | [Link](./13-agent-memory/README.md)     |                                                            |                                                                                        |
-| Evaluarea Agenților AI                       | Disponibil - 18 septembrie                           |                                                            |                                                                                        |
-| Construirea Agenților de Utilizare a Computerului (CUA) | Disponibil - 25 septembrie                           |                                                            |                                                                                        |
-| Implementarea Agenților Scalabili            | Disponibil - 25 septembrie                           |                                                            |                                                                                        |
-| Crearea Agenților AI Locali                  | Disponibil - 3 octombrie                             |                                                            |                                                                                        |
-| Securizarea Agenților AI                     | Disponibil - 10 octombrie                            |                                                            |                                                                                        |
+| Ingineria Contextului pentru Agenți AI               | [Link](./12-context-engineering/README.md)         | [Video](https://youtu.be/F5zqRV7gEag)                                 | [Link](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
+| Gestionarea Memoriei Agentice                        | [Link](./13-agent-memory/README.md)     |      [Video](https://youtu.be/QrYbHesIxpw?si=vZkVwKrQ4ieCcIPx)                                                      |                                                                                        |
+| Explorarea Framework-ului Microsoft pentru Agenți    | [Link](./14-microsoft-agent-framework/README.md)                            |                                                            |                                                                                        |
+| Construirea Agenților pentru Utilizarea Computerului (CUA) | În curând                            |                                                            |                                                                                        |
+| Implementarea Agenților Scalabili                   | În curând                            |                                                            |                                                                                        |
+| Crearea Agenților AI Locali                          | În curând                               |                                                            |                                                                                        |
+| Securizarea Agenților AI                             | În curând                               |                                                            |                                                                                        |
 
 ## 🎒 Alte Cursuri
 
 Echipa noastră produce și alte cursuri! Verifică:
 
 - [**NOU** Edge AI pentru Începători](https://github.com/microsoft/edgeai-for-beginners?WT.mc_id=academic-105485-koreyst)
-- [Protocolul Contextului Modelului (MCP) pentru Începători](https://github.com/microsoft/mcp-for-beginners?WT.mc_id=academic-105485-koreyst)
+- [Protocolul de Context al Modelului (MCP) pentru Începători](https://github.com/microsoft/mcp-for-beginners?WT.mc_id=academic-105485-koreyst)
 - [AI Generativ pentru Începători folosind .NET](https://github.com/microsoft/Generative-AI-for-beginners-dotnet?WT.mc_id=academic-105485-koreyst)
 - [AI Generativ pentru Începători](https://github.com/microsoft/generative-ai-for-beginners?WT.mc_id=academic-105485-koreyst)
 - [AI Generativ pentru Începători folosind Java](https://github.com/microsoft/generative-ai-for-beginners-java?WT.mc_id=academic-105485-koreyst)
@@ -128,12 +125,12 @@ Mulțumiri lui [Shivam Goyal](https://www.linkedin.com/in/shivam2003/) pentru co
 ## Contribuții
 
 Acest proiect acceptă contribuții și sugestii. Majoritatea contribuțiilor necesită să fiți de acord cu un
-Acord de Licență pentru Contribuitori (CLA) care declară că aveți dreptul de a, și chiar faceți, să ne acordați
-drepturile de a utiliza contribuția dvs. Pentru detalii, vizitați <https://cla.opensource.microsoft.com>.
+Acord de Licență pentru Contribuitori (CLA) care declară că aveți dreptul și, de fapt, acordați drepturile
+de a utiliza contribuția dvs. Pentru detalii, vizitați <https://cla.opensource.microsoft.com>.
 
 Când trimiteți un pull request, un bot CLA va determina automat dacă trebuie să furnizați
-un CLA și va decora PR-ul corespunzător (de exemplu, verificare de status, comentariu). Pur și simplu urmați instrucțiunile
-oferite de bot. Va trebui să faceți acest lucru o singură dată pentru toate repo-urile care utilizează CLA-ul nostru.
+un CLA și va decora PR-ul corespunzător (de exemplu, verificare de stare, comentariu). Urmați pur și simplu instrucțiunile
+oferite de bot. Va trebui să faceți acest lucru o singură dată pentru toate depozitele care utilizează CLA-ul nostru.
 
 Acest proiect a adoptat [Codul de Conduită Open Source Microsoft](https://opensource.microsoft.com/codeofconduct/).
 Pentru mai multe informații, consultați [FAQ-ul Codului de Conduită](https://opensource.microsoft.com/codeofconduct/faq/) sau
@@ -142,11 +139,11 @@ contactați [opencode@microsoft.com](mailto:opencode@microsoft.com) pentru orice
 ## Mărci Comerciale
 
 Acest proiect poate conține mărci comerciale sau logo-uri pentru proiecte, produse sau servicii. Utilizarea autorizată a mărcilor comerciale sau logo-urilor Microsoft este supusă și trebuie să respecte
-[Directiva privind Mărcile Comerciale și Brandul Microsoft](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
+[Ghidurile de Marcă și Trademark Microsoft](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
 Utilizarea mărcilor comerciale sau logo-urilor Microsoft în versiuni modificate ale acestui proiect nu trebuie să provoace confuzie sau să implice sponsorizarea Microsoft.
 Orice utilizare a mărcilor comerciale sau logo-urilor terților este supusă politicilor acelor terți.
 
 ---
 
 **Declinare de responsabilitate**:  
-Acest document a fost tradus folosind serviciul de traducere AI [Co-op Translator](https://github.com/Azure/co-op-translator). Deși ne străduim să asigurăm acuratețea, vă rugăm să fiți conștienți că traducerile automate pot conține erori sau inexactități. Documentul original în limba sa natală ar trebui considerat sursa autoritară. Pentru informații critice, se recomandă traducerea profesională realizată de un specialist. Nu ne asumăm responsabilitatea pentru eventualele neînțelegeri sau interpretări greșite care pot apărea din utilizarea acestei traduceri.
+Acest document a fost tradus folosind serviciul de traducere AI [Co-op Translator](https://github.com/Azure/co-op-translator). Deși ne străduim să asigurăm acuratețea, vă rugăm să fiți conștienți că traducerile automate pot conține erori sau inexactități. Documentul original în limba sa natală ar trebui considerat sursa autoritară. Pentru informații critice, se recomandă traducerea profesională realizată de un specialist uman. Nu ne asumăm responsabilitatea pentru eventualele neînțelegeri sau interpretări greșite care pot apărea din utilizarea acestei traduceri.

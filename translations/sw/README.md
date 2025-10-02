@@ -1,48 +1,48 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "0c6a7a65974383f8467bb6adf3d34bc5",
-  "translation_date": "2025-09-29T21:15:48+00:00",
+  "original_hash": "413adcc2c6a498d52643d27f6871aa24",
+  "translation_date": "2025-10-02T08:51:27+00:00",
   "source_file": "README.md",
   "language_code": "sw"
 }
 -->
-# Mawakala wa AI kwa Kompyuta - Kozi
+# Kozi ya Mawakala wa AI kwa Anayeanza
 
 ![Generative AI For Beginners](../../translated_images/repo-thumbnailv2.06f4a48036fde647f6ba4eb19f5651babe59bb30e972748afb349e47725d7601.sw.png)
 
 ## Kozi inayofundisha kila kitu unachohitaji kujua kuanza kujenga Mawakala wa AI
 
-[![GitHub license](https://img.shields.io/github/license/microsoft/ai-agents-for-beginners.svg)](https://github.com/microsoft/ai-agents-for-beginners/blob/master/LICENSE?WT.mc_id=academic-105485-koreyst)
-[![GitHub contributors](https://img.shields.io/github/contributors/microsoft/ai-agents-for-beginners.svg)](https://GitHub.com/microsoft/ai-agents-for-beginners/graphs/contributors/?WT.mc_id=academic-105485-koreyst)
-[![GitHub issues](https://img.shields.io/github/issues/microsoft/ai-agents-for-beginners.svg)](https://GitHub.com/microsoft/ai-agents-for-beginners/issues/?WT.mc_id=academic-105485-koreyst)
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/microsoft/ai-agents-for-beginners.svg)](https://GitHub.com/microsoft/ai-agents-for-beginners/pulls/?WT.mc_id=academic-105485-koreyst)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com?WT.mc_id=academic-105485-koreyst)
+[![Leseni ya GitHub](https://img.shields.io/github/license/microsoft/ai-agents-for-beginners.svg)](https://github.com/microsoft/ai-agents-for-beginners/blob/master/LICENSE?WT.mc_id=academic-105485-koreyst)
+[![Wachangiaji wa GitHub](https://img.shields.io/github/contributors/microsoft/ai-agents-for-beginners.svg)](https://GitHub.com/microsoft/ai-agents-for-beginners/graphs/contributors/?WT.mc_id=academic-105485-koreyst)
+[![Masuala ya GitHub](https://img.shields.io/github/issues/microsoft/ai-agents-for-beginners.svg)](https://GitHub.com/microsoft/ai-agents-for-beginners/issues/?WT.mc_id=academic-105485-koreyst)
+[![Maombi ya Kuvuta GitHub](https://img.shields.io/github/issues-pr/microsoft/ai-agents-for-beginners.svg)](https://GitHub.com/microsoft/ai-agents-for-beginners/pulls/?WT.mc_id=academic-105485-koreyst)
+[![PRs Karibu](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com?WT.mc_id=academic-105485-koreyst)
 
 ### 🌐 Msaada wa Lugha Nyingi
 
-#### Inasaidiwa kupitia GitHub Action (Imefanywa Kiotomatiki & Daima Imeboreshwa)
+#### Inasaidiwa kupitia GitHub Action (Imeboreshwa Kiotomatiki & Daima Inasasishwa)
 
-[Kifaransa](../fr/README.md) | [Kihispania](../es/README.md) | [Kijerumani](../de/README.md) | [Kirusi](../ru/README.md) | [Kiarabu](../ar/README.md) | [Kiajemi (Farsi)](../fa/README.md) | [Kiurdu](../ur/README.md) | [Kichina (Rahisi)](../zh/README.md) | [Kichina (Kienyeji, Macau)](../mo/README.md) | [Kichina (Kienyeji, Hong Kong)](../hk/README.md) | [Kichina (Kienyeji, Taiwan)](../tw/README.md) | [Kijapani](../ja/README.md) | [Kikorea](../ko/README.md) | [Kihindi](../hi/README.md) | [Kibengali](../bn/README.md) | [Kimarathi](../mr/README.md) | [Kinepali](../ne/README.md) | [Kipunjabi (Gurmukhi)](../pa/README.md) | [Kireno (Ureno)](../pt/README.md) | [Kireno (Brazil)](../br/README.md) | [Kiitaliano](../it/README.md) | [Kipolandi](../pl/README.md) | [Kituruki](../tr/README.md) | [Kigiriki](../el/README.md) | [Kithai](../th/README.md) | [Kiswidi](../sv/README.md) | [Kideni](../da/README.md) | [Kinorwe](../no/README.md) | [Kifini](../fi/README.md) | [Kiholanzi](../nl/README.md) | [Kiebrania](../he/README.md) | [Kivietinamu](../vi/README.md) | [Kiindonesia](../id/README.md) | [Kimalei](../ms/README.md) | [Kitagalogi (Kifilipino)](../tl/README.md) | [Kiswahili](./README.md) | [Kihungari](../hu/README.md) | [Kicheki](../cs/README.md) | [Kislovaki](../sk/README.md) | [Kiromania](../ro/README.md) | [Kibulgaria](../bg/README.md) | [Kiserbia (Kiriliki)](../sr/README.md) | [Kikroeshia](../hr/README.md) | [Kislovenia](../sl/README.md) | [Kiukraini](../uk/README.md) | [Kiburma (Myanmar)](../my/README.md)
+[Kifaransa](../fr/README.md) | [Kihispania](../es/README.md) | [Kijerumani](../de/README.md) | [Kirusi](../ru/README.md) | [Kiarabu](../ar/README.md) | [Kiajemi (Farsi)](../fa/README.md) | [Kiurdu](../ur/README.md) | [Kichina (Rahisi)](../zh/README.md) | [Kichina (Kienyeji, Macau)](../mo/README.md) | [Kichina (Kienyeji, Hong Kong)](../hk/README.md) | [Kichina (Kienyeji, Taiwan)](../tw/README.md) | [Kijapani](../ja/README.md) | [Kikorea](../ko/README.md) | [Kihindi](../hi/README.md) | [Kibengali](../bn/README.md) | [Kimarathi](../mr/README.md) | [Kinepali](../ne/README.md) | [Kipunjabi (Gurmukhi)](../pa/README.md) | [Kireno (Ureno)](../pt/README.md) | [Kireno (Brazil)](../br/README.md) | [Kiitaliano](../it/README.md) | [Kipolandi](../pl/README.md) | [Kituruki](../tr/README.md) | [Kigiriki](../el/README.md) | [Kithai](../th/README.md) | [Kiswidi](../sv/README.md) | [Kidanishi](../da/README.md) | [Kinorwe](../no/README.md) | [Kifini](../fi/README.md) | [Kiholanzi](../nl/README.md) | [Kiebrania](../he/README.md) | [Kivietinamu](../vi/README.md) | [Kiindonesia](../id/README.md) | [Kimalei](../ms/README.md) | [Kitagalogi (Kifilipino)](../tl/README.md) | [Kiswahili](./README.md) | [Kihungari](../hu/README.md) | [Kicheki](../cs/README.md) | [Kislovaki](../sk/README.md) | [Kiromania](../ro/README.md) | [Kibulgaria](../bg/README.md) | [Kiserbia (Kisiriliki)](../sr/README.md) | [Kikroeshia](../hr/README.md) | [Kislovenia](../sl/README.md) | [Kiukraini](../uk/README.md) | [Kiburma (Myanmar)](../my/README.md)
 
 **Ikiwa ungependa lugha za ziada ziongezwe, orodha ya lugha zinazosaidiwa inapatikana [hapa](https://github.com/Azure/co-op-translator/blob/main/getting_started/supported-languages.md)**
 
-[![GitHub watchers](https://img.shields.io/github/watchers/microsoft/ai-agents-for-beginners.svg?style=social&label=Watch)](https://GitHub.com/microsoft/ai-agents-for-beginners/watchers/?WT.mc_id=academic-105485-koreyst)
-[![GitHub forks](https://img.shields.io/github/forks/microsoft/ai-agents-for-beginners.svg?style=social&label=Fork)](https://GitHub.com/microsoft/ai-agents-for-beginners/network/?WT.mc_id=academic-105485-koreyst)
-[![GitHub stars](https://img.shields.io/github/stars/microsoft/ai-agents-for-beginners.svg?style=social&label=Star)](https://GitHub.com/microsoft/ai-agents-for-beginners/stargazers/?WT.mc_id=academic-105485-koreyst)
+[![Watazamaji wa GitHub](https://img.shields.io/github/watchers/microsoft/ai-agents-for-beginners.svg?style=social&label=Watch)](https://GitHub.com/microsoft/ai-agents-for-beginners/watchers/?WT.mc_id=academic-105485-koreyst)
+[![Forks za GitHub](https://img.shields.io/github/forks/microsoft/ai-agents-for-beginners.svg?style=social&label=Fork)](https://GitHub.com/microsoft/ai-agents-for-beginners/network/?WT.mc_id=academic-105485-koreyst)
+[![Nyota za GitHub](https://img.shields.io/github/stars/microsoft/ai-agents-for-beginners.svg?style=social&label=Star)](https://GitHub.com/microsoft/ai-agents-for-beginners/stargazers/?WT.mc_id=academic-105485-koreyst)
 
 [![Azure AI Discord](https://dcbadge.limes.pink/api/server/kzRShWzttr)](https://discord.gg/kzRShWzttr)
 
 
 ## 🌱 Kuanza
 
-Kozi hii ina masomo yanayofunika misingi ya kujenga Mawakala wa AI. Kila somo lina mada yake, kwa hivyo unaweza kuanza popote unapopenda!
+Kozi hii ina masomo yanayofunika misingi ya kujenga Mawakala wa AI. Kila somo lina mada yake, hivyo unaweza kuanza popote unapopenda!
 
-Kozi hii ina msaada wa lugha nyingi. Tembelea [lugha zinazopatikana hapa](../..). 
+Kozi hii inasaidia lugha nyingi. Tembelea [lugha zinazopatikana hapa](../..). 
 
-Ikiwa ni mara yako ya kwanza kujenga kwa kutumia mifano ya Generative AI, angalia kozi yetu ya [Generative AI For Beginners](https://aka.ms/genai-beginners), ambayo ina masomo 21 kuhusu kujenga kwa kutumia GenAI.
+Ikiwa ni mara yako ya kwanza kujifunza kuhusu mifano ya Generative AI, angalia kozi yetu ya [Generative AI For Beginners](https://aka.ms/genai-beginners), ambayo ina masomo 21 kuhusu jinsi ya kujenga na GenAI.
 
-Usisahau [kuweka nyota (🌟) kwenye repo hii](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars?WT.mc_id=academic-105485-koreyst) na [kuiga repo hii](https://github.com/microsoft/ai-agents-for-beginners/fork) ili kuendesha msimbo.
+Usisahau [kuweka nyota (🌟) kwenye repo hii](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars?WT.mc_id=academic-105485-koreyst) na [kufork repo hii](https://github.com/microsoft/ai-agents-for-beginners/fork) ili kuendesha msimbo.
 
 ### Kutana na Wanafunzi Wengine, Pata Majibu ya Maswali Yako
 
@@ -50,20 +50,22 @@ Ikiwa utakwama au una maswali yoyote kuhusu kujenga Mawakala wa AI, jiunge na Ki
 
 ### Unachohitaji 
 
-Kila somo katika kozi hii linajumuisha mifano ya msimbo, ambayo inaweza kupatikana katika folda ya code_samples. Unaweza [kuiga repo hii](https://github.com/microsoft/ai-agents-for-beginners/fork) ili kuunda nakala yako mwenyewe.  
+Kila somo katika kozi hii lina mifano ya msimbo, ambayo inaweza kupatikana kwenye folda ya code_samples. Unaweza [kufork repo hii](https://github.com/microsoft/ai-agents-for-beginners/fork) ili kuunda nakala yako mwenyewe.  
 
 Mifano ya msimbo katika mazoezi haya inatumia Azure AI Foundry na GitHub Model Catalogs kwa kuingiliana na Mifano ya Lugha:
 
-- [Github Models](https://aka.ms/ai-agents-beginners/github-models) - Bure / Kiwango Kidogo
-- [Azure AI Foundry](https://aka.ms/ai-agents-beginners/ai-foundry) - Akaunti ya Azure Inahitajika
+- [Mifano ya GitHub](https://aka.ms/ai-agents-beginners/github-models) - Bila Malipo / Kiwango Kidogo
+- [Azure AI Foundry](https://aka.ms/ai-agents-beginners/ai-foundry) - Inahitaji Akaunti ya Azure
 
 Kozi hii pia inatumia mifumo na huduma zifuatazo za Mawakala wa AI kutoka Microsoft:
 
+- [Microsoft Agent Framework (MAF) - Mpya!](https://aka.ms/ai-agents-beginners/agent-framewrok)
 - [Huduma ya Mawakala wa Azure AI](https://aka.ms/ai-agents-beginners/ai-agent-service)
 - [Semantic Kernel](https://aka.ms/ai-agents-beginners/semantic-kernel)
 - [AutoGen](https://aka.ms/ai-agents/autogen)
 
-Kwa maelezo zaidi kuhusu kuendesha msimbo wa kozi hii, tembelea [Usanidi wa Kozi](./00-course-setup/README.md).
+
+Kwa maelezo zaidi kuhusu jinsi ya kuendesha msimbo wa kozi hii, tembelea [Usanidi wa Kozi](./00-course-setup/README.md).
 
 ## 🙏 Unataka kusaidia?
 
@@ -74,32 +76,32 @@ Una mapendekezo au umepata makosa ya tahajia au msimbo? [Fungua suala](https://g
 ## 📂 Kila somo linajumuisha
 
 - Somo lililoandikwa lililoko kwenye README na video fupi
-- Sampuli za msimbo wa Python zinazosaidia Azure AI Foundry na Github Models (Bure)
-- Viungo vya rasilimali za ziada kuendelea kujifunza
+- Mifano ya msimbo wa Python inayosaidia Azure AI Foundry na Mifano ya GitHub (Bila Malipo)
+- Viungo vya rasilimali za ziada ili kuendelea kujifunza
 
 
 ## 🗃️ Masomo
 
-| **Somo**                                     | **Maandishi & Msimbo**                            | **Video**                                                  | **Mafunzo ya Ziada**                                                                   |
-|----------------------------------------------|----------------------------------------------------|------------------------------------------------------------|----------------------------------------------------------------------------------------|
-| Utangulizi wa Mawakala wa AI na Matumizi Yake | [Kiungo](./01-intro-to-ai-agents/README.md)        | [Video](https://youtu.be/3zgm60bXmQk?si=z8QygFvYQv-9WtO1)  | [Kiungo](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
-| Kuchunguza Mifumo ya Mawakala wa AI          | [Kiungo](./02-explore-agentic-frameworks/README.md)| [Video](https://youtu.be/ODwF-EZo_O8?si=Vawth4hzVaHv-u0H)  | [Kiungo](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
-| Kuelewa Mifumo ya Ubunifu wa Mawakala wa AI  | [Kiungo](./03-agentic-design-patterns/README.md)   | [Video](https://youtu.be/m9lM8qqoOEA?si=BIzHwzstTPL8o9GF)  | [Kiungo](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
-| Muundo wa Matumizi ya Zana                   | [Kiungo](./04-tool-use/README.md)                  | [Video](https://youtu.be/vieRiPRx-gI?si=2z6O2Xu2cu_Jz46N)  | [Kiungo](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
-| Mawakala wa RAG                              | [Kiungo](./05-agentic-rag/README.md)               | [Video](https://youtu.be/WcjAARvdL7I?si=gKPWsQpKiIlDH9A3)  | [Kiungo](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
-| Kujenga Mawakala wa AI Wenye Kuaminika       | [Kiungo](./06-building-trustworthy-agents/README.md)| [Video](https://youtu.be/iZKkMEGBCUQ?si=jZjpiMnGFOE9L8OK ) | [Kiungo](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
-| Muundo wa Mipango                            | [Kiungo](./07-planning-design/README.md)           | [Video](https://youtu.be/kPfJ2BrBCMY?si=6SC_iv_E5-mzucnC)  | [Kiungo](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
-| Muundo wa Mawakala Wengi                    | [Kiungo](./08-multi-agent/README.md)               | [Video](https://youtu.be/V6HpE9hZEx0?si=rMgDhEu7wXo2uo6g)  | [Kiungo](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
-| Muundo wa Metakognisheni                     | [Kiungo](./09-metacognition/README.md)             | [Video](https://youtu.be/His9R6gw6Ec?si=8gck6vvdSNCt6OcF)  | [Kiungo](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
-| Mawakala wa AI Katika Uzalishaji             | [Kiungo](./10-ai-agents-production/README.md)      | [Video](https://youtu.be/l4TP6IyJxmQ?si=31dnhexRo6yLRJDl)  | [Kiungo](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
-| Kutumia Itifaki za Mawakala (MCP, A2A na NLWeb)| [Kiungo](./11-agentic-protocols/README.md)         | [Video](https://youtu.be/X-Dh9R3Opn8)                                 | [Kiungo](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
+| **Somo**                                    | **Maandishi & Msimbo**                            | **Video**                                                  | **Kujifunza Zaidi**                                                                     |
+|---------------------------------------------|---------------------------------------------------|------------------------------------------------------------|----------------------------------------------------------------------------------------|
+| Utangulizi wa Mawakala wa AI na Matumizi Yake | [Kiungo](./01-intro-to-ai-agents/README.md)       | [Video](https://youtu.be/3zgm60bXmQk?si=z8QygFvYQv-9WtO1)  | [Kiungo](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
+| Kuchunguza Mifumo ya Mawakala wa AI         | [Kiungo](./02-explore-agentic-frameworks/README.md) | [Video](https://youtu.be/ODwF-EZo_O8?si=Vawth4hzVaHv-u0H)  | [Kiungo](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
+| Kuelewa Mifumo ya Ubunifu wa Mawakala wa AI | [Kiungo](./03-agentic-design-patterns/README.md)  | [Video](https://youtu.be/m9lM8qqoOEA?si=BIzHwzstTPL8o9GF)  | [Kiungo](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
+| Mfano wa Ubunifu wa Matumizi ya Zana        | [Kiungo](./04-tool-use/README.md)                 | [Video](https://youtu.be/vieRiPRx-gI?si=2z6O2Xu2cu_Jz46N)  | [Kiungo](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
+| Mawakala wa AI wa RAG                       | [Kiungo](./05-agentic-rag/README.md)              | [Video](https://youtu.be/WcjAARvdL7I?si=gKPWsQpKiIlDH9A3)  | [Kiungo](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
+| Kujenga Mawakala wa AI Wenye Kuaminika      | [Kiungo](./06-building-trustworthy-agents/README.md) | [Video](https://youtu.be/iZKkMEGBCUQ?si=jZjpiMnGFOE9L8OK ) | [Kiungo](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
+| Mfano wa Ubunifu wa Mipango                 | [Kiungo](./07-planning-design/README.md)          | [Video](https://youtu.be/kPfJ2BrBCMY?si=6SC_iv_E5-mzucnC)  | [Kiungo](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
+| Mfano wa Ubunifu wa Mawakala Wengi          | [Kiungo](./08-multi-agent/README.md)              | [Video](https://youtu.be/V6HpE9hZEx0?si=rMgDhEu7wXo2uo6g)  | [Kiungo](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
+| Mfano wa Ubunifu wa Metakujitambua          | [Kiungo](./09-metacognition/README.md)            | [Video](https://youtu.be/His9R6gw6Ec?si=8gck6vvdSNCt6OcF)  | [Kiungo](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
+| Mawakala wa AI Katika Uzalishaji            | [Kiungo](./10-ai-agents-production/README.md)     | [Video](https://youtu.be/l4TP6IyJxmQ?si=31dnhexRo6yLRJDl)  | [Kiungo](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
+| Kutumia Itifaki za Wakala (MCP, A2A na NLWeb) | [Kiungo](./11-agentic-protocols/README.md)           | [Video](https://youtu.be/X-Dh9R3Opn8)                                 | [Kiungo](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
 | Uhandisi wa Muktadha kwa Mawakala wa AI       | [Kiungo](./12-context-engineering/README.md)         | [Video](https://youtu.be/F5zqRV7gEag)                                 | [Kiungo](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
-| Kusimamia Kumbukumbu ya Mawakala              | [Kiungo](./13-agent-memory/README.md)     |                                                            |                                                                                        |
-| Kutathmini Mawakala wa AI                     | Inakuja - Septemba 18                              |                                                            |                                                                                        |
-| Kujenga Mawakala wa Matumizi ya Kompyuta (CUA) | Inakuja - Septemba 25                              |                                                            |                                                                                        |
-| Kuweka Mawakala Wanaoweza Kupimika            | Inakuja - Septemba 25                              |                                                            |                                                                                        |
-| Kuunda Mawakala wa AI wa Kieneo               | Inakuja - Oktoba 3                                 |                                                            |                                                                                        |
-| Kulinda Mawakala wa AI                        | Inakuja - Oktoba 10                                |                                                            |                                                                                        |
+| Kusimamia Kumbukumbu ya Wakala                | [Kiungo](./13-agent-memory/README.md)     |      [Video](https://youtu.be/QrYbHesIxpw?si=vZkVwKrQ4ieCcIPx)                                                      |                                                                                        |
+| Kuchunguza Mfumo wa Wakala wa Microsoft      | [Kiungo](./14-microsoft-agent-framework/README.md)                            |                                                            |                                                                                        |
+| Kujenga Mawakala wa Matumizi ya Kompyuta (CUA)| Inakuja Hivi Karibuni                            |                                                            |                                                                                        |
+| Kuweka Mawakala Wanaoweza Kupimika            | Inakuja Hivi Karibuni                            |                                                            |                                                                                        |
+| Kuunda Mawakala wa AI wa Ndani                | Inakuja Hivi Karibuni                               |                                                            |                                                                                        |
+| Kulinda Mawakala wa AI                        | Inakuja Hivi Karibuni                               |                                                            |                                                                                        |
 
 ## 🎒 Kozi Nyingine
 
@@ -129,11 +131,10 @@ Shukrani kwa [Shivam Goyal](https://www.linkedin.com/in/shivam2003/) kwa kuchang
 
 Mradi huu unakaribisha michango na mapendekezo. Michango mingi inahitaji ukubali Mkataba wa Leseni ya Mchangiaji (CLA) unaoeleza kuwa una haki ya, na kwa kweli unatoa, ruhusa kwetu kutumia mchango wako. Kwa maelezo zaidi, tembelea <https://cla.opensource.microsoft.com>.
 
-Unapowasilisha ombi la kuvuta (pull request), bot ya CLA itatambua kiotomatiki ikiwa unahitaji kutoa CLA na kupamba PR ipasavyo (mfano, ukaguzi wa hali, maoni). Fuata tu maagizo yaliyotolewa na bot. Utahitaji kufanya hivi mara moja tu kwa repos zote zinazotumia CLA yetu.
+Unapowasilisha ombi la kuvuta (pull request), bot ya CLA itatambua kiotomatiki ikiwa unahitaji kutoa CLA na kupamba PR ipasavyo (mfano, ukaguzi wa hali, maoni). Fuata tu maagizo yaliyotolewa na bot. Utahitaji kufanya hivyo mara moja tu kwa miradi yote inayotumia CLA yetu.
 
-Mradi huu umechukua [Kanuni ya Maadili ya Microsoft Open Source](https://opensource.microsoft.com/codeofconduct/).
-Kwa maelezo zaidi angalia [Maswali Yanayoulizwa Mara kwa Mara kuhusu Kanuni ya Maadili](https://opensource.microsoft.com/codeofconduct/faq/) au
-wasiliana na [opencode@microsoft.com](mailto:opencode@microsoft.com) kwa maswali au maoni ya ziada.
+Mradi huu umechukua [Kanuni ya Maadili ya Microsoft Open Source](https://opensource.microsoft.com/codeofconduct/). 
+Kwa maelezo zaidi angalia [Maswali Yanayoulizwa Mara kwa Mara kuhusu Kanuni ya Maadili](https://opensource.microsoft.com/codeofconduct/faq/) au wasiliana na [opencode@microsoft.com](mailto:opencode@microsoft.com) kwa maswali au maoni ya ziada.
 
 ## Alama za Biashara
 
@@ -145,4 +146,4 @@ Matumizi yoyote ya alama za biashara au nembo za wahusika wengine yanapaswa kufu
 ---
 
 **Kanusho**:  
-Hati hii imetafsiriwa kwa kutumia huduma ya tafsiri ya AI [Co-op Translator](https://github.com/Azure/co-op-translator). Ingawa tunajitahidi kuhakikisha usahihi, tafsiri za kiotomatiki zinaweza kuwa na makosa au kutokuwa sahihi. Hati ya asili katika lugha yake ya awali inapaswa kuchukuliwa kama chanzo cha mamlaka. Kwa taarifa muhimu, tafsiri ya kitaalamu ya binadamu inapendekezwa. Hatutawajibika kwa kutoelewana au tafsiri zisizo sahihi zinazotokana na matumizi ya tafsiri hii.
+Hati hii imetafsiriwa kwa kutumia huduma ya tafsiri ya AI [Co-op Translator](https://github.com/Azure/co-op-translator). Ingawa tunajitahidi kwa usahihi, tafadhali fahamu kuwa tafsiri za kiotomatiki zinaweza kuwa na makosa au kutokuwa sahihi. Hati ya asili katika lugha yake ya awali inapaswa kuchukuliwa kama chanzo cha mamlaka. Kwa taarifa muhimu, inashauriwa kutumia huduma ya mtafsiri wa kibinadamu mtaalamu. Hatutawajibika kwa kutoelewana au tafsiri zisizo sahihi zinazotokana na matumizi ya tafsiri hii.
